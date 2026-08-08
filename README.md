@@ -1,5 +1,5 @@
 **Hackathon 2026**
-Names: Vineet Agadkar, Yi Chang Ren, Varun Puskur, Ben Nguyen
+Names: Vineet Agadkar, Yicheng Ren, Varun Puskur, Ben Nguyen
 
 **Inspiration:**
 Our team believes that everyone should have the right to be financially independent.
